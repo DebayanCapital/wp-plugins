@@ -1,0 +1,21 @@
+{
+  "name": "wpvue-blocks",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cgb-scripts start",
+    "build": "cgb-scripts build",
+    "eject": "cgb-scripts eject"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^19.0.2",
+    "@ckeditor/ckeditor5-react": "^2.1.0",
+    "cgb-scripts": "1.23.0",
+    "classnames": "^2.2.6",
+    "react-datepicker": "^3.3.0",
+    "react-dropdown-select": "^4.4.1",
+    "react-select": "^3.1.0"
+  },
+  "devDependencies": {
+    "css-loader": "^5.0.1"
+  }
+}

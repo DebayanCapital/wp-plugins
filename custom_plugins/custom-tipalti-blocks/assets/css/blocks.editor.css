@@ -1,0 +1,26 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+ .block-header {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: #41285F;
+    margin-bottom: 25px;
+}
+.section-heading {
+    background-color: #e8e4e3;
+    color: black;
+    text-align: center;
+}
+.remove-item{
+    border: 1px solid red;
+    border-radius: 25px;
+    font-size: 25px !important;
+    float: right;
+    color: red;
+}
